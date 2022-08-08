@@ -1,2 +1,0 @@
-# odin-recipes
-We are creating a website to store various recipes as well as show pictures of those recipes. After I am done with this project I will have gained a better understanding of how HTML works.
